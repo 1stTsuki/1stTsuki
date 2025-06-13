@@ -1,2 +1,2 @@
-powershell -ExecutionPolicy Unrestricted -File %systemdrive%\windows\modules\xhci-imod-interval.ps1
+powershell -ExecutionPolicy Unrestricted -File %systemdrive%\windows\xhci-imod-interval.ps1
 exit
